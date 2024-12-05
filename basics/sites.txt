@@ -1,0 +1,5 @@
+https://httpbin.org/status/200
+https://httpbin.org/status/404 
+https://alura.com.br
+https://www.caelum.com.br
+https://www.fiap.com.br/
